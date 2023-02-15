@@ -1,6 +1,6 @@
 import serial
 import time
-import ambient
+#import ambient
 
 co2 = serial.Serial('dev/ttyACM0', 115200)
 
